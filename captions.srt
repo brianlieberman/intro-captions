@@ -1,0 +1,124 @@
+1
+00:00:01,079 --> 00:00:05,460
+hey everyone I'm Brian I'm excited to be
+
+2
+00:00:03,899 --> 00:00:07,980
+joining you all at mux on the pipe from
+
+3
+00:00:05,460 --> 00:00:10,620
+engineering team a little bit about me I
+
+4
+00:00:07,980 --> 00:00:14,880
+grew up in New Jersey until I went off
+
+5
+00:00:10,620 --> 00:00:17,820
+to college at Virginia Tech go Hokies uh
+
+6
+00:00:14,880 --> 00:00:20,760
+and after college I moved to Northern
+
+7
+00:00:17,820 --> 00:00:23,220
+Virginia which is right outside DC I've
+
+8
+00:00:20,760 --> 00:00:25,680
+worked at various companies and kind of
+
+9
+00:00:23,220 --> 00:00:28,980
+found my Niche really loving building
+
+10
+00:00:25,680 --> 00:00:31,500
+reliable systems that are distributed
+
+11
+00:00:28,980 --> 00:00:34,440
+and have really unique problems that I
+
+12
+00:00:31,500 --> 00:00:36,120
+feel like I can help solve and and I
+
+13
+00:00:34,440 --> 00:00:37,260
+really love making the developer
+
+14
+00:00:36,120 --> 00:00:39,540
+experience and running on those
+
+15
+00:00:37,260 --> 00:00:41,879
+platforms as enjoyable as possible
+
+16
+00:00:39,540 --> 00:00:44,760
+and so that's kind of how I found myself
+
+17
+00:00:41,879 --> 00:00:46,980
+in platform engineering before joining
+
+18
+00:00:44,760 --> 00:00:49,079
+mux I was part of the platform teams at
+
+19
+00:00:46,980 --> 00:00:53,399
+Gannett as well as New Relic and along
+
+20
+00:00:49,079 --> 00:00:55,920
+the way uh I adopted My adorable rescue
+
+21
+00:00:53,399 --> 00:00:58,320
+dog tag who knows how much he is the
+
+22
+00:00:55,920 --> 00:01:00,420
+center of my attention uh in my spare
+
+23
+00:00:58,320 --> 00:01:04,019
+time I love growing and taking care of
+
+24
+00:01:00,420 --> 00:01:07,220
+my plants the more exotic or spicy
+
+25
+00:01:04,019 --> 00:01:10,439
+pepper they are the better
+
+26
+00:01:07,220 --> 00:01:12,780
+and as well as skiing I wish I could do
+
+27
+00:01:10,439 --> 00:01:15,659
+that more now but I really missed that
+
+28
+00:01:12,780 --> 00:01:18,299
+when I was living in New Jersey my
+
+29
+00:01:15,659 --> 00:01:20,520
+question to you all is do you think a
+
+30
+00:01:18,299 --> 00:01:23,060
+taco is a sandwich
+
+31
+00:01:20,520 --> 00:01:23,060
+why are
+
